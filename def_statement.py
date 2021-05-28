@@ -98,7 +98,7 @@ menu = '''Ice-cream Sales
 5: Total Sales
 6: Average sales
 7: Enter Fifures
-0: End 
+8: End 
 
 Enter your command: '''
 while True:
